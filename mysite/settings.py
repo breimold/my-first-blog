@@ -25,7 +25,7 @@ SECRET_KEY = 'j13-n5a73$_xj5lq0z6d)@34vogqhj%0(sn!m()h3g++g^iwvc'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<your_username>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'breimold.pythonanywhere.com']
 
 
 # Application definition
